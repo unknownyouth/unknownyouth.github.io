@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhejun Yu / Site Title"
+title                    : "Zhejun Yu "
 title_separator          : "-"
 name                     : &name "Zhejun Yu"
 description              : &description "Zhejun Yu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhejun Yu"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Master student in the Department of Computer Science at Duke University. My research interests are in the area of machine learning and artificial intelligence."
+  bio              : "I am a Master student in the Department of Computer Science at Duke University. My research interests are in the area of agent and LLM application."
   location         : "Durham, NC, USA"
   employer         : "Duke University"
   uri              : # URL

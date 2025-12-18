@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Benchmarking Parameter-Efficient Fine-Tuning for Transformer Models"
+# excerpt: "Developed a comprehensive evaluation framework for Parameter-Efficient Fine-Tuning (PEFT), integrating analysis of LoRA, Prefix Tuning, BitFit, Sparse LoRA, and HiRA across both encoder-only and encoder–decoder Transformer architectures. The study benchmarks accuracy, parameter efficiency, sparsity behavior, GPU memory usage, and inference latency on classification (SST-2, MRPC, IMDB) and language modeling (WikiText-2) tasks. Results reveal clear trade-offs between low-rank expressiveness, sparsity-driven compression, and hardware constraints, establishing practical guidelines for deploying PEFT methods under tight compute and memory budgets.<br/><img src='/images/500x300.png'>" 
+excerpt: "Developed a comprehensive evaluation framework for Parameter-Efficient Fine-Tuning (PEFT), integrating analysis of LoRA, Prefix Tuning, BitFit, Sparse LoRA, and HiRA across both encoder-only and encoder–decoder Transformer architectures. The study benchmarks accuracy, parameter efficiency, sparsity behavior, GPU memory usage, and inference latency on classification (SST-2, MRPC, IMDB) and language modeling (WikiText-2) tasks. Results reveal clear trade-offs between low-rank expressiveness, sparsity-driven compression, and hardware constraints, establishing practical guidelines for deploying PEFT methods under tight compute and memory budgets.<br/><iframe src='/files/Poster.pdf' width='100%' height='600px' style='border: none;'></iframe>"
 collection: portfolio
 ---
 
