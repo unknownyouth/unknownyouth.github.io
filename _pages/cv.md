@@ -12,8 +12,9 @@ redirect_from:
 Education Background
 ======
 * Master of Science in Computer Science, Duke University, 2027 (expected)
-* Bachelor of Engineering in Software Engineering, Dalian University of Technology, 2024
 
+* Bachelor of Engineering in Software Engineering, Dalian University of Technology, 2024
+**GPA:91**/100 (Rank:**5%**)
 # Research Experience
 <!-- **Dynamic LLM-generated Text Benchmark** \| 06/2024 – 11/2024 -->
 
@@ -22,7 +23,7 @@ Education Background
   <span>06/2024 – 11/2024</span>
 </div>
 
-<small>Independent Research, Supervised by Prof. Dongwon Lee, Pennsylvania State University</small>
+*Independent Research, Supervised by Prof. Dongwon Lee, Pennsylvania State University* 
 
 * Evaluated the deficiency of static benchmark datasets in the face of increasingly powerful LLM and proposed a dynamic LLM-generated text benchmark.
 * Utilized the latest or best performing LLM to periodically generate text data, which was used for training and evaluation in the task of AI Authorship Analysis.
