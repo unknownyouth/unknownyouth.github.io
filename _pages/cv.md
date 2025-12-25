@@ -23,7 +23,11 @@ Education Background
 * Utilized the latest or best performing LLM to periodically generate text data, which was used for training and evaluation in the task of AI Authorship Analysis.
 * Conducted prompt engineering and comprehensive experiments to clean the generated text data, ensuring the quality and rationality of generation under multilingual scenarios.
 
-**Automated IT Service and Operation Management** \| 06/2023 – 11/2023
+<!-- **Automated IT Service and Operation Management** \| 06/2023 – 11/2023 -->
+<div style="display: flex; justify-content: space-between;">
+  <strong>Automated IT Service and Operation Management</strong>
+  <span>06/2023 – 11/2023</span>
+</div>
 
 *IBM joint development project*
 
