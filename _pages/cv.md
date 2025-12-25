@@ -15,20 +15,23 @@ Education Background
 * Bachelor of Engineering in Software Engineering, Dalian University of Technology, 2024
 
 # Research Experience
-**Dynamic LLM-generated Text Benchmark** 
-*Independent Research, Supervised by Prof. Dongwon Lee, Pennsylvania State University* *06/2024 – 11/2024*
+**Dynamic LLM-generated Text Benchmark** | 06/2024 – 11/2024
+
+*Independent Research, Supervised by Prof. Dongwon Lee, Pennsylvania State University* 
 
 * Evaluated the deficiency of static benchmark datasets in the face of increasingly powerful LLM and proposed a dynamic LLM-generated text benchmark.
 * Utilized the latest or best performing LLM to periodically generate text data, which was used for training and evaluation in the task of AI Authorship Analysis.
 * Conducted prompt engineering and comprehensive experiments to clean the generated text data, ensuring the quality and rationality of generation under multilingual scenarios.
 
 **Automated IT Service and Operation Management** | 06/2023 – 11/2023
+
 *IBM joint development project*
 * Implemented intelligent and automated IT services on the ServiceNow platform, improving the visibility of data and the simplicity of manipulation for users
 * Captured data changes by using Debezium distributed service and transmitted the configuration information from the database to the ServiceNow platform by leveraging Kafka
 * Utilized Docker compose technology for rapid deployment and startup of related data services
 
 **ZOS/MF System Resources Management with Terraform** | 07/2022 – 11/2022
+
 *IBM joint development project*
 * Implemented provider code based on SDK v2 framework and improved the local deployment process of Terraform in different operating system environments
 * Designed customized providers to manage the infrastructure resources in Go language, which contributed a lot to creating a lightweight application server on the mainframe
