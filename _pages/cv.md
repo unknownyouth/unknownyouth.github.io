@@ -14,8 +14,11 @@ Education Background
 * Master of Science in Computer Science, Duke University, 2027 (expected)
 
 * Bachelor of Engineering in Software Engineering, Dalian University of Technology, 2024
+
 **GPA:91**/100 (Rank:**5%**)
-# Research Experience
+
+Research Experience
+======
 <!-- **Dynamic LLM-generated Text Benchmark** \| 06/2024 – 11/2024 -->
 
 <div style="display: flex; justify-content: space-between;">
