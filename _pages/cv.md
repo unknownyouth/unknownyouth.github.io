@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Duke University, 2027 (expected)
-* B.E. in Software Engineering, Dalian University of Technology, 2024
+* Master of Science in Computer Science, Duke University, 2027 (expected)
+* Bachelor of Engineering in Software Engineering, Dalian University of Technology, 2024
+
+# Research Experience
 
 Project experience
 ======
