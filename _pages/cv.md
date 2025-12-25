@@ -15,15 +15,20 @@ Education Background
 * Bachelor of Engineering in Software Engineering, Dalian University of Technology, 2024
 
 # Research Experience
-**Dynamic LLM-generated Text Benchmark** \| 06/2024 – 11/2024
+<!-- **Dynamic LLM-generated Text Benchmark** \| 06/2024 – 11/2024 -->
 
-*Independent Research, Supervised by Prof. Dongwon Lee, Pennsylvania State University* 
+<div style="display: flex; justify-content: space-between;">
+  <strong>Dynamic LLM-generated Text Benchmark</strong>
+  <span>06/2024 – 11/2024</span>
+</div>
+
+<small>Independent Research, Supervised by Prof. Dongwon Lee, Pennsylvania State University</small>
 
 * Evaluated the deficiency of static benchmark datasets in the face of increasingly powerful LLM and proposed a dynamic LLM-generated text benchmark.
 * Utilized the latest or best performing LLM to periodically generate text data, which was used for training and evaluation in the task of AI Authorship Analysis.
 * Conducted prompt engineering and comprehensive experiments to clean the generated text data, ensuring the quality and rationality of generation under multilingual scenarios.
 
-<!-- **Automated IT Service and Operation Management** \| 06/2023 – 11/2023 -->
+
 <div style="display: flex; justify-content: space-between;">
   <strong>Automated IT Service and Operation Management</strong>
   <span>06/2023 – 11/2023</span>
@@ -35,7 +40,12 @@ Education Background
 * Captured data changes by using Debezium distributed service and transmitted the configuration information from the database to the ServiceNow platform by leveraging Kafka
 * Utilized Docker compose technology for rapid deployment and startup of related data services
 
-**ZOS/MF System Resources Management with Terraform** \| 07/2022 – 11/2022
+<!-- **ZOS/MF System Resources Management with Terraform** \| 07/2022 – 11/2022 -->
+
+<div style="display: flex; justify-content: space-between;">
+  <strong>ZOS/MF System Resources Management with Terraform</strong>
+  <span>07/2022 – 11/2022</span>
+</div>
 
 *IBM joint development project*
 
