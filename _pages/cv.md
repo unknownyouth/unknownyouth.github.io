@@ -58,7 +58,7 @@ Research Experience
 
 Project Experience
 ======
-* Spring 2024: Academic Pages Collaborator
+<!-- * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -71,8 +71,19 @@ Project Experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Professor Git -->
+
+<div style="display: flex; justify-content: space-between;">
+  <strong>Image Caption Generation</strong>
+  <span>01/2024 – 06/2024</span>
+</div>
+
+*Graduation Thesis*
+
+* Implemented the image caption generation model based on the encoder-decoder architecture, which abstracted the image and description text into sequences and made generation from sequence to sequence
+* Improved the capability of visual feature extraction in images by leveraging a better visual encoder model
+* Utilized the freezing parameter strategies on pre-trained models to compress the trained model and achieved a balance between model scale and performance by using retrieval augmented generation
+
 Skills
 ======
 * Skill 1
