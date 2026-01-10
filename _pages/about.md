@@ -37,7 +37,7 @@ Recent News
 ## Recent News
 
 
-- **2025.01** – Updated my portfolio with new LLM fine-tuning projects.
-- **2024.12** – Completed two back-to-back provincial volleyball championships (2023 & 2024).
-- **2024.09** – Joined Princeton University as a PhD student in Economics.
-- **2024.06** – Published project notes on LLM alignment and PEFT methods.
+- **2026.01** – Start my second semester at Duke!
+- **2025.12** – Completed two back-to-back provincial volleyball championships (2023 & 2024).
+- **2025.09** – Joined Princeton University as a PhD student in Economics.
+- **2025.08** – Published project notes on LLM alignment and PEFT methods.
