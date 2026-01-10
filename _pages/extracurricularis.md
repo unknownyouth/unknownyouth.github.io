@@ -10,9 +10,9 @@ Being part of my university’s volleyball team is one of my most cherished memo
 
 ## The Training Set
 
-<figure style="text-align: center; margin: 20px 0;">
-    <img src="/images/extracurriculars/map_screenshot.png" alt="Training Image" style="width: 500px; height: 500px; object-fit: contain; display: block; margin: 0 auto;">
-    <figcaption>Optional caption text here</figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center; margin: 20px 0;">
+    <img src="/images/extracurriculars/map_screenshot.png" alt="Training Image" style="width: 700px; height: 700px; object-fit: contain; display: block;">
+    <figcaption style="margin-top: 10px; text-align: center;">Optional caption text here</figcaption>
 </figure>
 
 Our team’s training routine was as exhausting as it was unforgettable. Because our department was located an hour and a half from the main campus, every practice began with a long bus ride to the main gym and ended with us paying out of pocket for a late-night taxi back—often arriving around 10 p.m. We would complain about the fatigue during the ride, only to be scolded by the dorm supervisor when we finally returned. Yet despite the long commutes, the late nights, and the constant tiredness, these moments became some of my favorite memories—shared struggles that brought us closer and made the experience truly special.
