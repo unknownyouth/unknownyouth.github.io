@@ -36,17 +36,8 @@ Recent News
 ======
 ## Recent News
 
-<div class="news-item">
-  <span class="news-date">2025.01</span>
-  <span class="news-content">Released new LLM fine-tuning and RAG projects on my website.</span>
-</div>
 
-<div class="news-item">
-  <span class="news-date">2024.12</span>
-  <span class="news-content">Won consecutive volleyball championships in 2023 & 2024.</span>
-</div>
-
-<div class="news-item">
-  <span class="news-date">2024.09</span>
-  <span class="news-content">Started my PhD in Economics at Princeton University.</span>
-</div>
+- **2025.01** – Updated my portfolio with new LLM fine-tuning projects.
+- **2024.12** – Completed two back-to-back provincial volleyball championships (2023 & 2024).
+- **2024.09** – Joined Princeton University as a PhD student in Economics.
+- **2024.06** – Published project notes on LLM alignment and PEFT methods.
