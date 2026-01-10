@@ -13,7 +13,11 @@ Our team’s training routine was as exhausting as it was unforgettable. Because
 
 ## Validation & Testing
 
-这里是你的课外活动内容...
+<figure class="half">
+    <img src="/images/extracurriculars/2023.jpg" alt="Description 1">
+    <img src="/images/extracurriculars/2024.jpg" alt="Description 2">
+    <figcaption>Caption for both images (optional)</figcaption>
+</figure>
 
 ## Activity 1
 描述...
