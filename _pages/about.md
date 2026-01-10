@@ -34,3 +34,19 @@ Skill Stack
 
 Recent News
 ======
+## Recent News
+
+<div class="news-item">
+  <span class="news-date">2025.01</span>
+  <span class="news-content">Released new LLM fine-tuning and RAG projects on my website.</span>
+</div>
+
+<div class="news-item">
+  <span class="news-date">2024.12</span>
+  <span class="news-content">Won consecutive volleyball championships in 2023 & 2024.</span>
+</div>
+
+<div class="news-item">
+  <span class="news-date">2024.09</span>
+  <span class="news-content">Started my PhD in Economics at Princeton University.</span>
+</div>
