@@ -19,10 +19,10 @@ Our team’s training routine was as exhausting as it was unforgettable. Because
 
 ## Validation & Testing
 
-<figure class="half">
+<figure class="half" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
     <img src="/images/extracurriculars/2023.jpg" alt="Description 1">
     <img src="/images/extracurriculars/2024.jpg" alt="Description 2">
-    <figcaption>Lifting the trophy in 2023 and 2024—two unforgettable championships</figcaption>
+    <figcaption style="flex-basis: 100%; width: 100%; text-align: center; margin-top: 10px;">Lifting the trophy in 2023 and 2024—two unforgettable championships</figcaption>
 </figure>
 I feel incredibly fortunate that every tournament I competed in during [**2023**](https://mp.weixin.qq.com/s?__biz=MzI2MjA5MzUxMQ==&mid=2652102263&idx=1&sn=3acce423eea0f0cf38c4c7aa6da89ad1&chksm=f1b711dfc6c098c92c9812349c2629330b89fe6ca30878f7a3d821d8621cc9400c6e9ce6771e&scene=27) and [**2024**](https://mp.weixin.qq.com/s?__biz=MzI2MjA5MzUxMQ==&mid=2652109909&idx=2&sn=7560d7744c68f69b7ba5c512079af496&chksm=f0a93f7bb5fa922084f37cfdc960c2379e3a2ae8c17c9e6d8dc5c7dcff23c38ff1dedfea086d&scene=27) ended with a championship title—including back-to-back victories in the Liaoning Provincial University Volleyball Championships. Looking back, I’m filled with gratitude for the opportunity to compete at that level and for the teammates and coaches who made those achievements possible. Winning was unforgettable, but what stays with me even more is the feeling of being surrounded by people who pushed, supported, and believed in me every step of the way.
 ## Activity 1
