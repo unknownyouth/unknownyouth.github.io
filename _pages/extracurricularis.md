@@ -11,7 +11,7 @@ Being part of my university’s volleyball team is one of my most cherished memo
 ## The Training Set
 
 <figure style="text-align: center; margin: 20px 0;">
-    <img src="/images/extracurriculars/map_screenshot.png" alt="Training Image" style="height: auto; width: auto; max-width: 100%;">
+    <img src="/images/extracurriculars/map_screenshot.png" alt="Training Image" style="width: 500px; height: 500px; object-fit: contain; display: block; margin: 0 auto;">
     <figcaption>Optional caption text here</figcaption>
 </figure>
 
