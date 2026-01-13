@@ -74,6 +74,19 @@ Project Experience
   * Supervisor: Professor Git -->
 
 <div style="display: flex; justify-content: space-between;">
+  <strong>Retrieval Augmented Generation System</strong>
+  <span>11/2025 – 02/2026</span>
+</div>
+
+<!-- *Graduation Thesis* -->
+
+* Designed and implemented an advanced agentic RAG system using LangGraph, incorporating multiple query-transformation strategies and orchestrating retrieval across heterogeneous sources (vector stores, graph databases, and relational databases).
+
+* Integrated a Corrective RAG (CRAG) module to improve answer reliability, and fine-tuned LLM-based retrieval evaluators using LLaMA-Factory and Unsloth, enabling quantitative scoring of document relevance.
+
+* Evaluated end-to-end system performance using a comprehensive RAG evaluation framework, measuring both retrieval and generation quality to iteratively optimize the pipeline.
+
+<div style="display: flex; justify-content: space-between;">
   <strong>Image Caption Generation</strong>
   <span>01/2024 – 06/2024</span>
 </div>
@@ -84,6 +97,7 @@ Project Experience
 * Improved the capability of visual feature extraction in images by leveraging a better visual encoder model
 * Utilized the freezing parameter strategies on pre-trained models to compress the trained model and achieved a balance between model scale and performance by using retrieval augmented generation
 
+
 Skills
 ======
 * Skill 1
@@ -93,23 +107,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
