@@ -15,17 +15,17 @@ I am currently seeking **Summer 2026 internship opportunities** in LLM applicati
 
 Skill Stack
 ======
-⚙️ Programming Skills
+Programming Skills
 * Language: Python, C++, Java
 * Software & Tools: Git, Docker, Linux environments
 
-🧠 LLM Engineering & Agent Systems
+LLM Engineering & Agent Systems
 * LangChain & LangGraph for agent orchestration and tool-use
 * Advanced RAG pipeline design: retrieval, reranking, embedding stores
 * Multi-agent workflows & structured reasoning
 * LLM evaluation: functional tests & hallucination detection
 
-🧩 Model Fine-Tuning & Optimization
+Model Fine-Tuning & Optimization
 * PEFT methods: LoRA, QLoRA, adapter merging & quantization
 * Supervised fine-tuning (SFT) for instruction-following & domain adaptation
 * Preference optimization: DPO / ORPO; alignment pipeline design
@@ -34,10 +34,9 @@ Skill Stack
 
 Recent News
 ======
-## Recent News
 
 
-- **2026.01** – Start my second semester at Duke!
-- **2025.12** – Completed two back-to-back provincial volleyball championships (2023 & 2024).
-- **2025.09** – Joined Princeton University as a PhD student in Economics.
-- **2025.08** – Published project notes on LLM alignment and PEFT methods.
+- **01/2026** – Start my second semester at Duke!
+- **10/2025** – Start to build my own RAG system from scratch.
+- **09/2025** – Explore training methods for LLMs.
+- **08/2025** – Join Duke University as a Master student in Computer Science.
