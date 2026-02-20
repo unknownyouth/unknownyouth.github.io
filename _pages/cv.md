@@ -97,22 +97,3 @@ Project Experience
 * Improved the capability of visual feature extraction in images by leveraging a better visual encoder model
 * Utilized the freezing parameter strategies on pre-trained models to compress the trained model and achieved a balance between model scale and performance by using retrieval augmented generation
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
